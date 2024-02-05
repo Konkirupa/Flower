@@ -1,0 +1,139 @@
+.parent1 {
+    display: flex;
+    flex-direction: row;
+    height:300px;
+    width: 700px;
+    border: 2px solid green;
+}
+.parent2 {
+    display: flex;
+    flex-direction: row;
+    height:300px;
+    width: 700px;
+    border: 2px solid green;
+}
+.parent3 {
+    display: flex;
+    flex-direction: row;
+    height:300px;
+    width: 700px;
+    border: 2px solid green;
+}
+.child {
+    width: 200px;
+    height: 200px;
+}
+#c1 {
+    color: red;
+    text-align: center;
+    background-color: blanchedalmond;
+    margin: 10px;
+}
+#c2 {
+    background-color: azure;
+    margin: 10px;
+    color:blueviolet;
+    text-align: center;
+}
+#c3 {
+    background-color: rgb(11, 45, 52);
+    margin: 10px;
+    color:chartreuse;
+    text-align: center;
+}
+#c4 {
+    color: blue;
+    background-color: bisque;
+    margin: 10px;
+    text-align: center;
+    
+}
+#c5 {
+    background-color: bisque;
+    margin: 10px;
+    color: brown;
+    text-align: center;
+    
+}
+#c6 {
+    background-color: bisque;
+    margin: 10px;
+    color: chocolate;
+    text-align: center;
+    
+}
+#c7 {
+    background-color: bisque;
+    margin: 10px;
+    color: crimson;
+    text-align: center;
+    
+}
+#c8 {
+    background-color: bisque;
+    margin: 10px;
+    color: darkseagreen;
+    text-align: center;
+    
+}
+#c9 {
+    background-color: bisque;
+    margin: 10px;
+    color: fuchsia;
+    text-align: center;
+    
+}
+.body {
+    align-items: center;
+    border-radius: 10px; 
+    margin: 10px;
+    padding:250px;
+    background-image: url(image2.jpeg);
+    background-size: 500px;
+    
+}
+ .now {
+     color: darkcyan;
+     font-size: 50px;
+     font-style: oblique;
+      margin: 10px;
+      padding-left: 250px;
+     
+
+ }
+ .flowervase1 {
+    width: 70px;
+    height:70px;
+ }
+ .flowervase2 {
+    width: 90px;
+    height: 90px;
+ }
+ .flowervase3 {
+    width: 90px;
+    height: 90px;
+ }
+ .flowervase4 {
+    width: 100px;
+    height: 100px;
+ }
+ .flowervase5 {
+    width: 100px;
+    height: 100px;
+ }
+ .flowervase6 {
+    width: 100px;
+    height: 100px;
+ }
+ .flowervase7 {
+    width: 100px;
+    height: 100px;
+ }
+ .flowervase8 {
+    width: 100px;
+    height: 100px;
+ }
+ .flowervase9 {
+    width: 100px;
+    height: 100px;
+ }
